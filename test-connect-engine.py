@@ -1,7 +1,7 @@
 import requests
 import json
 
-# Set up your Olmanna API endpoint
+
 OLMANN_API_ENDPOINT = 'http://localhost:11434/api/generate'
 
 # Create a dictionary to represent the JSON data

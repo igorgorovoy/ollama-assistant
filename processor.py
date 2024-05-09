@@ -1,9 +1,9 @@
 import streamlit as st
 import requests
 
-OLLAMA_API_URL = "http://localhost:11434/api/"  # Replace with your local Ollama 3 API URL
+OLLAMA_API_URL = "http://localhost:11434/api/"
 import json
-import json
+
 
 
 def send_message(message):
